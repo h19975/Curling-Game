@@ -7,7 +7,7 @@ Install: npm install socket.io
 Launch: node app.js
 
 Testing steps:
-1. Visit http://localhost:3000/assignment3.html 
+1. Visit http://localhost:3000/sideProject3.html 
    Initially, no players, so you cannot see the available stones
 2. Enter the player name and click “I want to play(Enter your name)”, if succeed, you will see your stones.
    The order is always Red player -> Yellow player -> Red player -> Yellow player -> Red player -> Yellow player.
